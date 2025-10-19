@@ -7,4 +7,6 @@ using namespace std; = fungsinya untuk menulis code secara singkat jadi tidak pe
 int main () { = merupakan fungsi utama dari setiap program C++ dan setiap intruksi yang ada di dalam main () akan dijalankan secara berurutan.
 int umur; = umur; adalah variable bertipe data (int), fungsinya ini untuk menyimpan nilai bilangan bulat dan menyimpan informasi usia pengguna.
 string KursiBioskop; = KursiBioskop; bertipe data string, fungsinya untuk menyimpan deretan karakter. Variable digunakan untuk menyimpan kategori kursi bioskop yang sesuai dengan umur penonton.
-
+cout << "Masukkan umur kamu: "; = program menampilkan pesan tersebut ke layar windows execute atau konsol dan meminta pengguna untuk memasukkan data usia mereka.
+cin >> umur; = setelah memasukkan umur (angka) dan menekan enter, nilai yang kita masukkan akan dibaca oleh program dan disimpan ke dalam variable yaitu umur.
+if (umur < 13) { ... } = 
