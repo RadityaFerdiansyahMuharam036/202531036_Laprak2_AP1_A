@@ -2,5 +2,6 @@
 saya akan menjelaskan code saya di file yang readme ini
 jadi untuk Quest yang saya ambil adalah bioskop, jadi saya menggunakan if else kalkulator, bisa dilihat yang "Quest Bioskop.cpp"
 
-#include <iostream>
-= mengimpor pustaka dan sangat fungsional karena
+#include iostream = mengimpor pustaka dan fungsinya untuk operasi input dan output dalam program C++
+using namespace std; = fungsinya untuk menulis code secara singkat jadi tidak perlu menambahkan std::
+int main () { = 
