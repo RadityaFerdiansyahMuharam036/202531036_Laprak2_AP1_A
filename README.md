@@ -6,4 +6,5 @@ jadi untuk Quest yang saya ambil adalah bioskop, jadi saya menggunakan if else k
 using namespace std; = fungsinya untuk menulis code secara singkat jadi tidak perlu menambahkan std::.
 int main () { = merupakan fungsi utama dari setiap program C++ dan setiap intruksi yang ada di dalam main () akan dijalankan secara berurutan.
 int umur; = umur; adalah variable bertipe data (int), fungsinya ini untuk menyimpan nilai bilangan bulat dan menyimpan informasi usia pengguna.
-string KursiBioskop; = KursiBioskop; 
+string KursiBioskop; = KursiBioskop; bertipe data string, fungsinya untuk menyimpan deretan karakter. Variable digunakan untuk menyimpan kategori kursi bioskop yang sesuai dengan umur penonton.
+
