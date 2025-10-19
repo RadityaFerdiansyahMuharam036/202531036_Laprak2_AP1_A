@@ -5,5 +5,5 @@ jadi untuk Quest yang saya ambil adalah bioskop, jadi saya menggunakan if else k
 #include iostream = mengimpor pustaka dan fungsinya untuk operasi input dan output dalam program C++.
 using namespace std; = fungsinya untuk menulis code secara singkat jadi tidak perlu menambahkan std::.
 int main () { = merupakan fungsi utama dari setiap program C++ dan setiap intruksi yang ada di dalam main () akan dijalankan secara berurutan.
-int umur; = umur; adalah variable bertipe data (int), artinya ini menyimpan nilai bilangan bulat.
-string KursiBioskop; = 
+int umur; = umur; adalah variable bertipe data (int), fungsinya ini untuk menyimpan nilai bilangan bulat dan menyimpan informasi usia pengguna.
+string KursiBioskop; = KursiBioskop; 
